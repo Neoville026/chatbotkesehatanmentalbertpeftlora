@@ -1,10 +1,9 @@
-%%writefile requirements.txt
 streamlit
-transformers==4.38.2 # Use the version you trained with
-peft==0.9.0 # Use the version you trained with
-accelerate==0.28.0 # Use the version you trained with
-bitsandbytes==0.42.0 # Use the version you trained with
-triton==2.2.0 # Use the version you trained with
+transformers
+peft
+accelerate
+bitsandbytes
+triton
 Sastrawi
 pandas
 nltk
